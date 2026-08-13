@@ -230,7 +230,7 @@
       "free_premium_model": [
         "gpt-5"
       ],
-      "status_bool": true,
+      "status_bool": false,
       "poster_githubname": "",
       "updatetime": "2026-06-05"
     },
