@@ -173,14 +173,6 @@
 
 免费额度与注册说明： 邮箱注册即可免费使用30天，但模型存在降智问题，无API
 
-### Github Models
-
-链接： [Github Models](https://github.com/marketplace/models)
-
-高级模型: gpt-5
-
-免费额度与注册说明： 根据账号决定，每日限额
-
 ### 微软 Copilot 商业版
 
 链接： [微软 Copilot 商业版](https://m365.cloud.microsoft/)
