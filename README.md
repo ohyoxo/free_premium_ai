@@ -259,4 +259,14 @@
 
 投稿人： [rthdfd](https://github.com/rthdfd)
 
+### S3API
+
+链接： [S3API](https://ai.furry.vg/sign-up?aff=j5ol)
+
+高级模型: gpt-5.6-terra
+
+免费额度与注册说明： https://ai.furry.vg/pricing 通过free分组查看
+
+投稿人： [zsystemx](https://github.com/zsystemx)
+
 <!-- platforms:end -->
